@@ -32,17 +32,21 @@ Add Phone|Verify Code|Profile|
           ```
           yarn install
           ```
+      3. install pod dependencies for ios:
+          ```
+          npx pod-install   
+          ```
           
-      3. Start the app:
+      4. Start the app:
             -  Android
           ```
             yarn android
           ```
             -  IOS
           ```
-            yarn ios
+            npx pod-install && yarn ios
           ```
-      4. Run unit tests:
+      5. Run unit tests:
           ```
           yarn test
           ```
