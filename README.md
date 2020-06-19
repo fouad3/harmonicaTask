@@ -44,7 +44,7 @@ Add Phone|Verify Code|Profile|
           ```
             -  IOS
           ```
-            npx pod-install && yarn ios
+          yarn ios
           ```
       5. Run unit tests:
           ```
