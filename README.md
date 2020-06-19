@@ -40,7 +40,7 @@ Add Phone|Verify Code|Profile|
       4. Start the app:
             -  Android
           ```
-            yarn android
+          yarn android
           ```
             -  IOS
           ```
