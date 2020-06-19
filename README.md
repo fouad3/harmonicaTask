@@ -16,7 +16,7 @@
 
 ## Screenshots
 Add Phone|Verify Code|Profile|
-:---:|:---:|:---:|:---:
+:---:|:---:|:---:
 <img src='src/assets/screenshots/AddPhone.png' width='200' height='400'>|<img src='src/assets/screenshots/VerifyCode.png' width='200' height='400'>|<img src='src/assets/screenshots/Profile.png' width='200' height='400'>
 
 
