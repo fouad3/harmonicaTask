@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1074035860383",
+    "firebase_url": "https://harmonica-28019.firebaseio.com",
+    "project_id": "harmonica-28019",
+    "storage_bucket": "harmonica-28019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074035860383:android:42fcca9064e4f9a93753aa",
+        "android_client_info": {
+          "package_name": "com.harmonica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074035860383-res9ntli9d0082ddti6pq152l4j6eqrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDANJ2dTe0DiO-BChWaYoZ8Bzd-tZFasbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074035860383-res9ntli9d0082ddti6pq152l4j6eqrh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1074035860383-33nkkrkalrkc9v1reqn1fp977bkdvbud.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "harmonica"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
